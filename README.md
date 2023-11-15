@@ -1,5 +1,3 @@
-# Hatis-fahrurosyi.-A-23422025
-Uts haris
 Carilah solusi dua persamaan berikut
 
 3 + x^3 - x = 4
